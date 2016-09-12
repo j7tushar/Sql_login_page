@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="user_name">User Name</string>
+    <string name="user_pass">Password</string>
+    <string name="str">Sp</string>
+    <string-array name="Sp">
+        <item>BE</item>
+        <item>BCA</item>
+    </string-array>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+</resources>
